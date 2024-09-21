@@ -1,8 +1,5 @@
 ﻿# To-Do-List
 
-
-# To-Do List
-
 ## Descrizione del Progetto
 La To-Do List è un'applicazione web semplice.
 
