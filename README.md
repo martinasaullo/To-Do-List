@@ -21,7 +21,3 @@ Follow these steps to run the project on your local device:
    ```bash
    git clone https://github.com/your-username/to-do-list.git
 
-
-
-## Conclusione
-Questa To-Do List è un progetto semplice che mi ha permesso di esercitarmi con JavaScript e comprendere meglio la manipolazione del DOM.
