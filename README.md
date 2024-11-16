@@ -19,5 +19,5 @@ Follow these steps to run the project on your local device:
 1. **Clone the Repository**  
    Clone this repository using the command:
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/martinasaullo/To-Do-List.git
 
